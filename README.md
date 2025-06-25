@@ -4,5 +4,3 @@ Uma ferramenta online simples, intuitiva e eficiente para calcular taxas de juro
 - Exportação dos resultados
 
 
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/AndradElo/CALCULADORA-DE--TAXAS--SIMPLIFICADA)
